@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34892495818",
+    "project_id": "editorpro-3fb85",
+    "storage_bucket": "editorpro-3fb85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34892495818:android:962e5aaa1019870e1d6d33",
+        "android_client_info": {
+          "package_name": "com.video_editor.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34892495818-l3gsbjulpr7uu0ll9rd86jharg04u4gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHef30tDsQgmKn_07iQIkt_SuJbtE91Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34892495818-l3gsbjulpr7uu0ll9rd86jharg04u4gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
