@@ -1,6 +1,6 @@
  Project Title:- Pro Video Editor
 
-A cutting-edge, open-source video editing application designed for professionals and enthusiasts alike, offering unparalleled control, speed, and advanced features.
+A video editing application designed for professionals and enthusiasts alike, offering unparalleled control, speed, and advanced features.
 
 ✨ Features
 
