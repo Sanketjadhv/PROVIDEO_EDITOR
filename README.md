@@ -13,5 +13,3 @@ Advanced Color Grading: Comprehensive tools including LUT support, color wheels,
 Visual Effects Suite: Integrated tools for motion graphics, keying (Chroma Key), masking, and professional VFX workflows.
 
 Customizable Interface: A modern, dockable UI that adapts to your workflow, whether you're on a single or multi-monitor setup.
-
-Extensive Format Support: Compatible with virtually all popular video, audio, and image formats
