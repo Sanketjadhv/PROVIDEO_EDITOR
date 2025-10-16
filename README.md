@@ -6,7 +6,7 @@ A video editing application designed for professionals and enthusiasts alike, of
 
 Non-Linear Editing (NLE): Effortlessly arrange, trim, and manipulate video and audio tracks on an intuitive timeline.
 
-High-Fidelity Rendering: Lightning-fast and customizable rendering options, supporting resolutions up to 8K and a wide range of codecs.
+High-Fidelity Rendering: Lightning-fast and customizable rendering options, supporting resolutions up to 1080p and a wide range of codecs.
 
 Advanced Color Grading: Comprehensive tools including LUT support, color wheels, scopes, and curve adjustments for cinematic looks.
 
